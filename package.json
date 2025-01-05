@@ -1,0 +1,31 @@
+{
+  "name": "horse-racing",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "vitest"
+  },
+  "dependencies": {
+    "@mdi/font": "^7.4.47",
+    "@pinia/testing": "^0.1.7",
+    "@testing-library/jest-dom": "^6.6.3",
+    "@vue/test-utils": "^2.4.6",
+    "cypress": "^13.17.0",
+    "pinia": "^2.3.0",
+    "sass": "^1.83.0",
+    "vitest": "^2.1.8",
+    "vue": "^3.5.13",
+    "vue-router": "^4.5.0",
+    "vuetify": "^3.7.6"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.2.1",
+    "jsdom": "^25.0.1",
+    "vite": "^6.0.5",
+    "vue-svg-loader": "^0.16.0"
+  }
+}
